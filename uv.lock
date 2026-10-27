@@ -746,7 +746,7 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "aiosqlite", specifier = ">=0.17.0" },
+    { name = "aiosqlite", specifier = ">=0.22.1" },
     { name = "beautifulsoup4", specifier = ">=4.13.0" },
     { name = "curl-cffi", marker = "extra == 'curl'", specifier = ">=0.7.0" },
     { name = "fake-useragent", specifier = ">=1.4.0" },
