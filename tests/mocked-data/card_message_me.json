@@ -1,0 +1,381 @@
+{
+  "data": {
+    "threaded_conversation_with_injections_v2": {
+      "instructions": [
+        {
+          "type": "TimelineClearCache"
+        },
+        {
+          "entries": [
+            {
+              "content": {
+                "__typename": "TimelineTimelineItem",
+                "clientEventInfo": {
+                  "component": "tweet",
+                  "element": "tweet"
+                },
+                "entryType": "TimelineTimelineItem",
+                "itemContent": {
+                  "__typename": "TimelineTweet",
+                  "itemType": "TimelineTweet",
+                  "tweetDisplayType": "Tweet",
+                  "tweet_results": {
+                    "result": {
+                      "__typename": "Tweet",
+                      "card": {
+                        "legacy": {
+                          "binding_values": [
+                            {
+                              "key": "_omit_link_",
+                              "value": {
+                                "boolean_value": false,
+                                "type": "BOOLEAN"
+                              }
+                            },
+                            {
+                              "key": "recipient",
+                              "value": {
+                                "type": "USER",
+                                "user_value": {
+                                  "id_str": "85741735",
+                                  "path": []
+                                }
+                              }
+                            },
+                            {
+                              "key": "cta",
+                              "value": {
+                                "string_value": "message_me_card_cta_2",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "card_url",
+                              "value": {
+                                "scribe_key": "card_url",
+                                "string_value": "https://t.co/1XyLaGkcaN",
+                                "type": "STRING"
+                              }
+                            }
+                          ],
+                          "card_platform": {
+                            "platform": {
+                              "audience": {
+                                "name": "production"
+                              },
+                              "device": {
+                                "name": "Swift",
+                                "version": "12"
+                              }
+                            }
+                          },
+                          "name": "2586390716:message_me",
+                          "url": "https://t.co/1XyLaGkcaN",
+                          "user_refs_results": [
+                            {
+                              "result": {
+                                "__typename": "User",
+                                "action_counts": {
+                                  "favorites_count": 56359
+                                },
+                                "affiliates_highlighted_label": {
+                                  "label": {
+                                    "badge": {
+                                      "url": "https://pbs.twimg.com/profile_images/1912984084516831232/BHv0mcPd_bigger.jpg"
+                                    },
+                                    "description": "Amazon",
+                                    "url": {
+                                      "url": "https://twitter.com/amazon",
+                                      "urlType": "DeepLink"
+                                    },
+                                    "userLabelDisplayType": "Badge",
+                                    "userLabelType": "BusinessLabel"
+                                  }
+                                },
+                                "avatar": {
+                                  "image_url": "https://pbs.twimg.com/profile_images/900044287357747200/3y78dUZl_normal.jpg"
+                                },
+                                "banner": {
+                                  "image_url": "https://pbs.twimg.com/profile_banners/85741735/1542649786"
+                                },
+                                "core": {
+                                  "created_at": "Wed Oct 28 04:17:54 +0000 2009",
+                                  "name": "Amazon Help",
+                                  "screen_name": "AmazonHelp"
+                                },
+                                "dm_permissions": {
+                                  "can_dm": true
+                                },
+                                "follow_request_sent": false,
+                                "has_graduated_access": true,
+                                "id": "VXNlcjo4NTc0MTczNQ==",
+                                "is_blue_verified": true,
+                                "location": {
+                                  "location": ""
+                                },
+                                "media_permissions": {
+                                  "can_media_tag": true
+                                },
+                                "notifications_settings": {
+                                  "notifications_enabled": false
+                                },
+                                "pinned_items": {},
+                                "possibly_sensitive": false,
+                                "privacy": {
+                                  "protected": false
+                                },
+                                "profile_bio": {
+                                  "description": "We answer support questions in English / Deutsch / Espa\u00f1ol / Portugu\u00eas / Fran\u00e7ais / Italiano / \u65e5\u672c\u8a9e / T\u00fcrk\u00e7e / Nederlands / Polski / \u010ce\u0161tina / Svenska / \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+                                  "entities": {
+                                    "description": {},
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "amazon.com/help",
+                                          "expanded_url": "http://www.amazon.com/help",
+                                          "indices": [
+                                            0,
+                                            23
+                                          ],
+                                          "url": "https://t.co/sbsHtNqVjH"
+                                        }
+                                      ]
+                                    }
+                                  }
+                                },
+                                "profile_image_shape": "Square",
+                                "profile_metadata": {
+                                  "profile_interstitial_type": ""
+                                },
+                                "profile_translation": {
+                                  "translator_type": "none"
+                                },
+                                "relationship_counts": {
+                                  "followers": 560027,
+                                  "following": 77
+                                },
+                                "relationship_perspectives": {
+                                  "blocked_by": false,
+                                  "blocking": false,
+                                  "followed_by": false,
+                                  "following": false,
+                                  "live_following": false,
+                                  "muting": false
+                                },
+                                "rest_id": "85741735",
+                                "super_follow_eligible": false,
+                                "super_followed_by": false,
+                                "super_following": false,
+                                "tipjar_settings": {},
+                                "tweet_counts": {
+                                  "media_tweets": 26651,
+                                  "tweets": 13904610
+                                },
+                                "verification": {
+                                  "verified": false,
+                                  "verified_type": "Business"
+                                },
+                                "website": {
+                                  "url": "https://t.co/sbsHtNqVjH"
+                                }
+                              }
+                            }
+                          ]
+                        },
+                        "rest_id": "https://t.co/1XyLaGkcaN"
+                      },
+                      "core": {
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "action_counts": {
+                              "favorites_count": 56359
+                            },
+                            "affiliates_highlighted_label": {
+                              "label": {
+                                "badge": {
+                                  "url": "https://pbs.twimg.com/profile_images/1912984084516831232/BHv0mcPd_bigger.jpg"
+                                },
+                                "description": "Amazon",
+                                "url": {
+                                  "url": "https://twitter.com/amazon",
+                                  "urlType": "DeepLink"
+                                },
+                                "userLabelDisplayType": "Badge",
+                                "userLabelType": "BusinessLabel"
+                              }
+                            },
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/900044287357747200/3y78dUZl_normal.jpg"
+                            },
+                            "banner": {
+                              "image_url": "https://pbs.twimg.com/profile_banners/85741735/1542649786"
+                            },
+                            "core": {
+                              "created_at": "Wed Oct 28 04:17:54 +0000 2009",
+                              "name": "Amazon Help",
+                              "screen_name": "AmazonHelp"
+                            },
+                            "dm_permissions": {
+                              "can_dm": true
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjo4NTc0MTczNQ==",
+                            "is_blue_verified": true,
+                            "location": {
+                              "location": ""
+                            },
+                            "media_permissions": {
+                              "can_media_tag": true
+                            },
+                            "notifications_settings": {
+                              "notifications_enabled": false
+                            },
+                            "pinned_items": {},
+                            "possibly_sensitive": false,
+                            "privacy": {
+                              "protected": false
+                            },
+                            "profile_bio": {
+                              "description": "We answer support questions in English / Deutsch / Espa\u00f1ol / Portugu\u00eas / Fran\u00e7ais / Italiano / \u65e5\u672c\u8a9e / T\u00fcrk\u00e7e / Nederlands / Polski / \u010ce\u0161tina / Svenska / \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+                              "entities": {
+                                "description": {},
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "amazon.com/help",
+                                      "expanded_url": "http://www.amazon.com/help",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ],
+                                      "url": "https://t.co/sbsHtNqVjH"
+                                    }
+                                  ]
+                                }
+                              }
+                            },
+                            "profile_image_shape": "Square",
+                            "profile_metadata": {
+                              "profile_interstitial_type": ""
+                            },
+                            "profile_translation": {
+                              "translator_type": "none"
+                            },
+                            "relationship_counts": {
+                              "followers": 560027,
+                              "following": 77
+                            },
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "live_following": false,
+                              "muting": false
+                            },
+                            "rest_id": "85741735",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {},
+                            "tweet_counts": {
+                              "media_tweets": 26651,
+                              "tweets": 13904610
+                            },
+                            "verification": {
+                              "verified": false,
+                              "verified_type": "Business"
+                            },
+                            "website": {
+                              "url": "https://t.co/sbsHtNqVjH"
+                            }
+                          }
+                        }
+                      },
+                      "edit_control": {
+                        "edit_tweet_ids": [
+                          "1916063270131191983"
+                        ],
+                        "editable_until_msecs": "1745663656000",
+                        "edits_remaining": "5",
+                        "is_edit_eligible": false
+                      },
+                      "grok_translated_post_with_availability": {
+                        "is_available": false
+                      },
+                      "has_birdwatch_notes": false,
+                      "is_translatable": true,
+                      "legacy": {
+                        "bookmark_count": 1,
+                        "bookmarked": false,
+                        "conversation_id_str": "1916061947499368726",
+                        "created_at": "Sat Apr 26 09:34:16 +0000 2025",
+                        "display_text_range": [
+                          0,
+                          37
+                        ],
+                        "entities": {
+                          "urls": [
+                            {
+                              "display_url": "x.com/messages/compo\u2026",
+                              "expanded_url": "https://x.com/messages/compose?recipient_id=85741735",
+                              "indices": [
+                                38,
+                                61
+                              ],
+                              "url": "https://t.co/1XyLaGkcaN"
+                            }
+                          ]
+                        },
+                        "favorite_count": 1,
+                        "favorited": false,
+                        "full_text": "Aqu\u00ed te dejamos el enlace:\n\n-Laura C. https://t.co/1XyLaGkcaN",
+                        "id_str": "1916063270131191983",
+                        "in_reply_to_screen_name": "AmazonHelp",
+                        "in_reply_to_status_id_str": "1916062489868980597",
+                        "in_reply_to_user_id_str": "85741735",
+                        "is_quote_status": false,
+                        "lang": "es",
+                        "possibly_sensitive": false,
+                        "possibly_sensitive_editable": true,
+                        "quote_count": 0,
+                        "reply_count": 9,
+                        "retweet_count": 0,
+                        "retweeted": false,
+                        "user_id_str": "85741735"
+                      },
+                      "quick_promote_eligibility": {
+                        "eligibility": "IneligibleNotVerified"
+                      },
+                      "rest_id": "1916063270131191983",
+                      "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+                      "unmention_data": {},
+                      "views": {
+                        "count": "30420",
+                        "state": "EnabledWithCount"
+                      }
+                    }
+                  }
+                }
+              },
+              "entryId": "tweet-1916063270131191983",
+              "sortIndex": "2092923266015428588"
+            }
+          ],
+          "type": "TimelineAddEntries"
+        },
+        {
+          "direction": "Top",
+          "type": "TimelineTerminateTimeline"
+        }
+      ],
+      "metadata": {
+        "scribeConfig": {
+          "page": "ranked_replies"
+        }
+      }
+    }
+  }
+}

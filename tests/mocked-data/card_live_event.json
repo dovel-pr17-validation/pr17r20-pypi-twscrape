@@ -1,0 +1,631 @@
+{
+  "data": {
+    "threaded_conversation_with_injections_v2": {
+      "instructions": [
+        {
+          "type": "TimelineClearCache"
+        },
+        {
+          "entries": [
+            {
+              "content": {
+                "__typename": "TimelineTimelineItem",
+                "clientEventInfo": {
+                  "component": "tweet",
+                  "element": "tweet"
+                },
+                "entryType": "TimelineTimelineItem",
+                "itemContent": {
+                  "__typename": "TimelineTweet",
+                  "itemType": "TimelineTweet",
+                  "tweetDisplayType": "Tweet",
+                  "tweet_results": {
+                    "result": {
+                      "__typename": "Tweet",
+                      "card": {
+                        "legacy": {
+                          "binding_values": [
+                            {
+                              "key": "event_thumbnail_color",
+                              "value": {
+                                "image_color_value": {
+                                  "palette": [
+                                    {
+                                      "percentage": 38.68,
+                                      "rgb": {
+                                        "blue": 8,
+                                        "green": 13,
+                                        "red": 16
+                                      }
+                                    },
+                                    {
+                                      "percentage": 28.22,
+                                      "rgb": {
+                                        "blue": 199,
+                                        "green": 203,
+                                        "red": 208
+                                      }
+                                    },
+                                    {
+                                      "percentage": 15.48,
+                                      "rgb": {
+                                        "blue": 20,
+                                        "green": 56,
+                                        "red": 96
+                                      }
+                                    },
+                                    {
+                                      "percentage": 5.17,
+                                      "rgb": {
+                                        "blue": 82,
+                                        "green": 138,
+                                        "red": 179
+                                      }
+                                    },
+                                    {
+                                      "percentage": 3.52,
+                                      "rgb": {
+                                        "blue": 28,
+                                        "green": 104,
+                                        "red": 170
+                                      }
+                                    }
+                                  ]
+                                },
+                                "type": "IMAGE_COLOR"
+                              }
+                            },
+                            {
+                              "key": "event_category",
+                              "value": {
+                                "string_value": "Music",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "broadcast_width",
+                              "value": {
+                                "string_value": "1920",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "event_thumbnail_original",
+                              "value": {
+                                "image_value": {
+                                  "height": 680,
+                                  "url": "https://pbs.twimg.com/semantic_core_img/1463196034834653197/laCi4ben?format=jpg&name=orig",
+                                  "width": 1024
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "square_thumbnail",
+                              "value": {
+                                "image_value": {
+                                  "height": 680,
+                                  "url": "https://pbs.twimg.com/semantic_core_img/1463196034834653197/laCi4ben?format=jpg&name=orig",
+                                  "width": 1024
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "square_thumbnail_color",
+                              "value": {
+                                "image_color_value": {
+                                  "palette": [
+                                    {
+                                      "percentage": 38.68,
+                                      "rgb": {
+                                        "blue": 8,
+                                        "green": 13,
+                                        "red": 16
+                                      }
+                                    },
+                                    {
+                                      "percentage": 28.22,
+                                      "rgb": {
+                                        "blue": 199,
+                                        "green": 203,
+                                        "red": 208
+                                      }
+                                    },
+                                    {
+                                      "percentage": 15.48,
+                                      "rgb": {
+                                        "blue": 20,
+                                        "green": 56,
+                                        "red": 96
+                                      }
+                                    },
+                                    {
+                                      "percentage": 5.17,
+                                      "rgb": {
+                                        "blue": 82,
+                                        "green": 138,
+                                        "red": 179
+                                      }
+                                    },
+                                    {
+                                      "percentage": 3.52,
+                                      "rgb": {
+                                        "blue": 28,
+                                        "green": 104,
+                                        "red": 170
+                                      }
+                                    }
+                                  ]
+                                },
+                                "type": "IMAGE_COLOR"
+                              }
+                            },
+                            {
+                              "key": "square_thumbnail_original",
+                              "value": {
+                                "image_value": {
+                                  "height": 680,
+                                  "url": "https://pbs.twimg.com/semantic_core_img/1463196034834653197/laCi4ben?format=jpg&name=orig",
+                                  "width": 1024
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "media_tweet_id",
+                              "value": {
+                                "string_value": "1462832246390288384",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "event_thumbnail_x_large",
+                              "value": {
+                                "image_value": {
+                                  "height": 680,
+                                  "url": "https://pbs.twimg.com/semantic_core_img/1463196034834653197/laCi4ben?format=jpg&name=orig",
+                                  "width": 1024
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "broadcast_title",
+                              "value": {
+                                "string_value": "2022 GRAMMY Nominations Announced",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "broadcast_source",
+                              "value": {
+                                "string_value": "livecms",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "event_title",
+                              "value": {
+                                "string_value": "The 64th annual GRAMMY Awards nominees have been announced \ud83c\udfb6",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "broadcast_orientation",
+                              "value": {
+                                "string_value": "0",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "remind_me_toggle_visible",
+                              "value": {
+                                "boolean_value": false,
+                                "type": "BOOLEAN"
+                              }
+                            },
+                            {
+                              "key": "event_timeline_id",
+                              "value": {
+                                "string_value": "matchup",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "event_subtitle",
+                              "value": {
+                                "string_value": "The Recording Academy announced the nominees for the 64th Annual GRAMMY Awards on Tuesday. Artists nominated include Cardi B, Megan Thee Stallion, H.E.R., Ariana Grande, Selena Gomez, Justin Bieber,  Olivia Rodrigo, Billie Eilish, the Foo Fighters, Kanye West and Barack Obama, who was nominated for his audiobook A Promised Land. This is the first time in 30 years the finalists were determined solely by votes from the Academy's thousands of members and not filtered through anonymous committees of experts, the New York Times reports. The ceremony will be held on January 31, 2022, at the Crypto.com Arena in Los Angeles.",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "broadcast_id",
+                              "value": {
+                                "string_value": "1eaJbNMnWXoJX",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "broadcaster_twitter_id",
+                              "value": {
+                                "string_value": "17243213",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "broadcast_height",
+                              "value": {
+                                "string_value": "1080",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "broadcaster_username",
+                              "value": {
+                                "string_value": "RecordingAcad",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "square_thumbnail_x_large",
+                              "value": {
+                                "image_value": {
+                                  "height": 680,
+                                  "url": "https://pbs.twimg.com/semantic_core_img/1463196034834653197/laCi4ben?format=jpg&name=orig",
+                                  "width": 1024
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "event_thumbnail_small",
+                              "value": {
+                                "image_value": {
+                                  "height": 680,
+                                  "url": "https://pbs.twimg.com/semantic_core_img/1463196034834653197/laCi4ben?format=jpg&name=orig",
+                                  "width": 1024
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "broadcast_media_key",
+                              "value": {
+                                "string_value": "28_1460713369799774208",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "square_thumbnail_small",
+                              "value": {
+                                "image_value": {
+                                  "height": 680,
+                                  "url": "https://pbs.twimg.com/semantic_core_img/1463196034834653197/laCi4ben?format=jpg&name=orig",
+                                  "width": 1024
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "broadcaster_display_name",
+                              "value": {
+                                "string_value": "Recording Acad / GRAMMYs",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "media_type",
+                              "value": {
+                                "string_value": "broadcast",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "event_id",
+                              "value": {
+                                "string_value": "1461789549739143169",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "square_thumbnail_large",
+                              "value": {
+                                "image_value": {
+                                  "height": 680,
+                                  "url": "https://pbs.twimg.com/semantic_core_img/1463196034834653197/laCi4ben?format=jpg&name=orig",
+                                  "width": 1024
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "broadcast_media_id",
+                              "value": {
+                                "string_value": "1460713369799774208",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "event_thumbnail_large",
+                              "value": {
+                                "image_value": {
+                                  "height": 680,
+                                  "url": "https://pbs.twimg.com/semantic_core_img/1463196034834653197/laCi4ben?format=jpg&name=orig",
+                                  "width": 1024
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "event_thumbnail",
+                              "value": {
+                                "image_value": {
+                                  "height": 680,
+                                  "url": "https://pbs.twimg.com/semantic_core_img/1463196034834653197/laCi4ben?format=jpg&name=orig",
+                                  "width": 1024
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "card_url",
+                              "value": {
+                                "scribe_key": "card_url",
+                                "string_value": "https://t.co/WzKIndGKqJ",
+                                "type": "STRING"
+                              }
+                            }
+                          ],
+                          "card_platform": {
+                            "platform": {
+                              "audience": {
+                                "name": "production"
+                              },
+                              "device": {
+                                "name": "Swift",
+                                "version": "12"
+                              }
+                            }
+                          },
+                          "name": "745291183405076480:live_event",
+                          "url": "https://t.co/WzKIndGKqJ",
+                          "user_refs_results": []
+                        },
+                        "rest_id": "https://t.co/WzKIndGKqJ"
+                      },
+                      "core": {
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "action_counts": {
+                              "favorites_count": 8887
+                            },
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/1896639558655062016/8R5kEhP3_normal.jpg"
+                            },
+                            "banner": {
+                              "image_url": "https://pbs.twimg.com/profile_banners/17243213/1759361334"
+                            },
+                            "core": {
+                              "created_at": "Sat Nov 08 02:03:24 +0000 2008",
+                              "name": "GRAMMYS",
+                              "screen_name": "RecordingAcad"
+                            },
+                            "dm_permissions": {
+                              "can_dm": true
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjoxNzI0MzIxMw==",
+                            "is_blue_verified": true,
+                            "location": {
+                              "location": "Santa Monica"
+                            },
+                            "media_permissions": {
+                              "can_media_tag": true
+                            },
+                            "notifications_settings": {
+                              "notifications_enabled": false
+                            },
+                            "pinned_items": {},
+                            "possibly_sensitive": false,
+                            "privacy": {
+                              "protected": false
+                            },
+                            "profile_bio": {
+                              "description": "Celebrating music through the #GRAMMYs. Fostering a stronger and more inspiring world for creators through @GRAMMYAdvocacy, @MusiCares, and the @GRAMMYMuseum.",
+                              "entities": {
+                                "description": {},
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "grm.my/49eZIgr",
+                                      "expanded_url": "http://grm.my/49eZIgr",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ],
+                                      "url": "https://t.co/9qDNK0TwLx"
+                                    }
+                                  ]
+                                }
+                              }
+                            },
+                            "profile_description_language": "en",
+                            "profile_image_shape": "Square",
+                            "profile_metadata": {
+                              "profile_interstitial_type": ""
+                            },
+                            "profile_translation": {
+                              "translator_type": "regular"
+                            },
+                            "relationship_counts": {
+                              "followers": 5556686,
+                              "following": 17887
+                            },
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "live_following": false,
+                              "muting": false
+                            },
+                            "rest_id": "17243213",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {},
+                            "tweet_counts": {
+                              "media_tweets": 17444,
+                              "tweets": 63165
+                            },
+                            "verification": {
+                              "verified": false,
+                              "verified_type": "Business"
+                            },
+                            "website": {
+                              "url": "https://t.co/9qDNK0TwLx"
+                            }
+                          }
+                        }
+                      },
+                      "edit_control": {
+                        "edit_tweet_ids": [
+                          "1463203718153703425"
+                        ],
+                        "editable_until_msecs": "1637691726075",
+                        "edits_remaining": "5",
+                        "is_edit_eligible": true
+                      },
+                      "grok_translated_post_with_availability": {
+                        "is_available": false
+                      },
+                      "has_birdwatch_notes": false,
+                      "is_translatable": false,
+                      "legacy": {
+                        "bookmark_count": 6,
+                        "bookmarked": false,
+                        "conversation_id_str": "1463203718153703425",
+                        "created_at": "Tue Nov 23 17:52:06 +0000 2021",
+                        "display_text_range": [
+                          0,
+                          192
+                        ],
+                        "entities": {
+                          "urls": [
+                            {
+                              "display_url": "x.com/i/events/14617\u2026",
+                              "expanded_url": "https://x.com/i/events/1461789549739143169",
+                              "indices": [
+                                169,
+                                192
+                              ],
+                              "url": "https://t.co/WzKIndGKqJ"
+                            }
+                          ],
+                          "user_mentions": [
+                            {
+                              "id_str": "1865772373863202816",
+                              "indices": [
+                                65,
+                                73
+                              ],
+                              "name": "Cruel",
+                              "screen_name": "cruella"
+                            },
+                            {
+                              "id_str": "1390420550497996812",
+                              "indices": [
+                                75,
+                                84
+                              ],
+                              "name": "Dear Evan Hansen Movie",
+                              "screen_name": "dehmovie"
+                            },
+                            {
+                              "id_str": "1004849101052055552",
+                              "indices": [
+                                86,
+                                99
+                              ],
+                              "name": "In The Heights Movie",
+                              "screen_name": "intheheights"
+                            },
+                            {
+                              "id_str": "1148889196272242688",
+                              "indices": [
+                                101,
+                                110
+                              ],
+                              "name": "One Night In Miami...",
+                              "screen_name": "ONIMfilm"
+                            },
+                            {
+                              "id_str": "1133859529278468096",
+                              "indices": [
+                                112,
+                                125
+                              ],
+                              "name": "RESPECT: The Aretha Franklin Movie",
+                              "screen_name": "RespectMovie"
+                            },
+                            {
+                              "id_str": "1165251197596557312",
+                              "indices": [
+                                155,
+                                166
+                              ],
+                              "name": "The U.S. vs. Billie Holiday",
+                              "screen_name": "USvsBillie"
+                            }
+                          ]
+                        },
+                        "favorite_count": 506,
+                        "favorited": false,
+                        "full_text": "\ud83c\udf89Congrats Best Compilation Soundtrack For Visual Media nominees: @cruella, @dehmovie, @intheheights, @ONIMfilm, @RespectMovie, Schmigadoon! Episode 1, and @UsvsBillie. \nhttps://t.co/WzKIndGKqJ",
+                        "id_str": "1463203718153703425",
+                        "is_quote_status": false,
+                        "lang": "en",
+                        "possibly_sensitive": false,
+                        "possibly_sensitive_editable": true,
+                        "quote_count": 112,
+                        "reply_count": 15,
+                        "retweet_count": 117,
+                        "retweeted": false,
+                        "user_id_str": "17243213"
+                      },
+                      "quick_promote_eligibility": {
+                        "eligibility": "IneligibleNotVerified"
+                      },
+                      "rest_id": "1463203718153703425",
+                      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                      "unmention_data": {},
+                      "views": {
+                        "state": "Enabled"
+                      }
+                    }
+                  }
+                }
+              },
+              "entryId": "tweet-1463203718153703425",
+              "sortIndex": "2093598831756181504"
+            }
+          ],
+          "type": "TimelineAddEntries"
+        },
+        {
+          "direction": "Top",
+          "type": "TimelineTerminateTimeline"
+        }
+      ],
+      "metadata": {
+        "scribeConfig": {
+          "page": "ranked_replies"
+        }
+      }
+    }
+  }
+}

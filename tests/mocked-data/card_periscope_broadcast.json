@@ -1,0 +1,644 @@
+{
+  "data": {
+    "threaded_conversation_with_injections_v2": {
+      "instructions": [
+        {
+          "type": "TimelineClearCache"
+        },
+        {
+          "entries": [
+            {
+              "content": {
+                "__typename": "TimelineTimelineItem",
+                "clientEventInfo": {
+                  "component": "tweet",
+                  "element": "tweet"
+                },
+                "entryType": "TimelineTimelineItem",
+                "itemContent": {
+                  "__typename": "TimelineTweet",
+                  "itemType": "TimelineTweet",
+                  "tweetDisplayType": "Tweet",
+                  "tweet_results": {
+                    "result": {
+                      "__typename": "Tweet",
+                      "card": {
+                        "legacy": {
+                          "binding_values": [
+                            {
+                              "key": "is_360",
+                              "value": {
+                                "boolean_value": false,
+                                "type": "BOOLEAN"
+                              }
+                            },
+                            {
+                              "key": "player_url",
+                              "value": {
+                                "string_value": "https://www.pscp.tv/w/1OyKAAeDbzzKb/card",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "available_for_replay",
+                              "value": {
+                                "boolean_value": true,
+                                "type": "BOOLEAN"
+                              }
+                            },
+                            {
+                              "key": "broadcast_width",
+                              "value": {
+                                "string_value": "568",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "googleplay_icon_small",
+                              "value": {
+                                "image_value": {
+                                  "height": 16,
+                                  "url": "https://pbs.twimg.com/media/c3ed5000032863fecf0645956ff4e39b.png",
+                                  "width": 15
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "full_size_thumbnail_url",
+                              "value": {
+                                "string_value": "https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/replay_thumbnail/us-west-2/periscope-replay-direct-live/eyJkIjowfQ/g6SrzQLawpsfacqgCcXAvK3sxNgtJikogPhXaeKMJ4irAek8wqmJLXImzAUxcapeHF3LrvI-X7xFhrOn88cF2w/chunk_11197.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJBbGxvd2VkUHJvdG9jb2xzIjpbInRodW1iIl0sIkJyb2FkY2FzdElkIjoiMU95S0FBZURienpLYiIsIkdyYW50VHlwZSI6InJlYWQiLCJHcmFudGVkQXQiOjE3ODc5NTE4NzEsIkdyYW50ZWRUbyI6IndlYi1yYXRlLWxpbWl0ZWQtODI5ZmQyZWIxNTNiM2U0YjRiNTk3MzdkM2JkMWI4MDEiLCJTdHJlYW1OYW1lIjoiZzZTcnpRTGF3cHNmYWNxZ0NjWEF2SzNzeE5ndEppa29nUGhYYWVLTUo0aXJBZWs4d3FtSkxYSW16QVV4Y2FwZUhGM0xydkktWDd4RmhyT244OGNGMnciLCJleHAiOjE3ODgxMjQ2NzF9.7geEk-nZWAPTLyuTaMzT_V4S_LcoW1f9SfQc5LlWNck&service=proxsee&digest=E-JaWS1q9WuzgA9mxguz43o7jAeEXK43e2z4nzGgv6g",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "googleplay_icon_large",
+                              "value": {
+                                "image_value": {
+                                  "height": 16,
+                                  "url": "https://pbs.twimg.com/media/c3ed5000032863fecf0645956ff4e39b.png",
+                                  "width": 15
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "url",
+                              "value": {
+                                "string_value": "https://www.pscp.tv/womensmarch/1OyKAAeDbzzKb",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "description",
+                              "value": {
+                                "string_value": "womensmarch was LIVE",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "broadcast_state",
+                              "value": {
+                                "string_value": "ENDED",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "player_width",
+                              "value": {
+                                "string_value": "504",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "domain",
+                              "value": {
+                                "string_value": "www.pscp.tv",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "broadcaster_id",
+                              "value": {
+                                "string_value": "1xnjrXdgkXWQY",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "site",
+                              "value": {
+                                "scribe_key": "publisher_id",
+                                "type": "USER",
+                                "user_value": {
+                                  "id_str": "800942537083068416",
+                                  "path": []
+                                }
+                              }
+                            },
+                            {
+                              "key": "googleplay_icon_x_large",
+                              "value": {
+                                "image_value": {
+                                  "height": 16,
+                                  "url": "https://pbs.twimg.com/media/c3ed5000032863fecf0645956ff4e39b.png",
+                                  "width": 15
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "featured",
+                              "value": {
+                                "boolean_value": false,
+                                "type": "BOOLEAN"
+                              }
+                            },
+                            {
+                              "key": "broadcast_source",
+                              "value": {
+                                "string_value": "producer",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "app_id_googleplay",
+                              "value": {
+                                "string_value": "tv.periscope.android",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "app_id_iphone",
+                              "value": {
+                                "string_value": "972909677",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "total_participants",
+                              "value": {
+                                "string_value": "9705",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "apple_icon",
+                              "value": {
+                                "image_value": {
+                                  "height": 16,
+                                  "url": "https://pbs.twimg.com/media/1f36fd4ad473619c902bb6c63108e8c5.png",
+                                  "width": 13
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "apple_icon_x_large",
+                              "value": {
+                                "image_value": {
+                                  "height": 16,
+                                  "url": "https://pbs.twimg.com/media/1f36fd4ad473619c902bb6c63108e8c5.png",
+                                  "width": 13
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "id",
+                              "value": {
+                                "string_value": "1OyKAAeDbzzKb",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "broadcaster_twitter_id",
+                              "value": {
+                                "string_value": "800942537083068416",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "broadcast_height",
+                              "value": {
+                                "string_value": "320",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "initial_camera_orientation",
+                              "value": {
+                                "string_value": "0",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "player_height",
+                              "value": {
+                                "string_value": "283.5",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "vanity_url",
+                              "value": {
+                                "scribe_key": "vanity_url",
+                                "string_value": "pscp.tv",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "status",
+                              "value": {
+                                "string_value": "womensmarch was LIVE",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "broadcaster_username",
+                              "value": {
+                                "string_value": "womensmarch",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "broadcast_media_key",
+                              "value": {
+                                "string_value": "28_1262856350008176640",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "broadcaster_display_name",
+                              "value": {
+                                "string_value": "Women's March",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "api",
+                              "value": {
+                                "string_value": "capi://periscopebroadcast/1",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "app_country",
+                              "value": {
+                                "string_value": "US",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "title",
+                              "value": {
+                                "string_value": "Women's March @womensmarch",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "_omit_link_",
+                              "value": {
+                                "boolean_value": false,
+                                "type": "BOOLEAN"
+                              }
+                            },
+                            {
+                              "key": "googleplay_icon",
+                              "value": {
+                                "image_value": {
+                                  "height": 16,
+                                  "url": "https://pbs.twimg.com/media/c3ed5000032863fecf0645956ff4e39b.png",
+                                  "width": 15
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "apple_icon_large",
+                              "value": {
+                                "image_value": {
+                                  "height": 16,
+                                  "url": "https://pbs.twimg.com/media/1f36fd4ad473619c902bb6c63108e8c5.png",
+                                  "width": 13
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "apple_icon_small",
+                              "value": {
+                                "image_value": {
+                                  "height": 16,
+                                  "url": "https://pbs.twimg.com/media/1f36fd4ad473619c902bb6c63108e8c5.png",
+                                  "width": 13
+                                },
+                                "type": "IMAGE"
+                              }
+                            },
+                            {
+                              "key": "broadcast_invitees_twitter",
+                              "value": {
+                                "string_value": "[]",
+                                "type": "STRING"
+                              }
+                            },
+                            {
+                              "key": "card_url",
+                              "value": {
+                                "scribe_key": "card_url",
+                                "string_value": "https://t.co/wTGDifEhye",
+                                "type": "STRING"
+                              }
+                            }
+                          ],
+                          "card_platform": {
+                            "platform": {
+                              "audience": {
+                                "name": "production"
+                              },
+                              "device": {
+                                "name": "Swift",
+                                "version": "12"
+                              }
+                            }
+                          },
+                          "name": "3691233323:periscope_broadcast",
+                          "url": "https://t.co/wTGDifEhye",
+                          "user_refs_results": [
+                            {
+                              "result": {
+                                "__typename": "User",
+                                "action_counts": {
+                                  "favorites_count": 18050
+                                },
+                                "affiliates_highlighted_label": {},
+                                "avatar": {
+                                  "image_url": "https://pbs.twimg.com/profile_images/1686488665936289792/1i_Bk-bC_normal.jpg"
+                                },
+                                "banner": {
+                                  "image_url": "https://pbs.twimg.com/profile_banners/800942537083068416/1690924179"
+                                },
+                                "core": {
+                                  "created_at": "Tue Nov 22 06:02:36 +0000 2016",
+                                  "name": "Women's March",
+                                  "screen_name": "womensmarch"
+                                },
+                                "dm_permissions": {
+                                  "can_dm": true
+                                },
+                                "follow_request_sent": false,
+                                "has_graduated_access": true,
+                                "id": "VXNlcjo4MDA5NDI1MzcwODMwNjg0MTY=",
+                                "is_blue_verified": true,
+                                "location": {
+                                  "location": "Washington, D.C."
+                                },
+                                "media_permissions": {
+                                  "can_media_tag": false
+                                },
+                                "notifications_settings": {
+                                  "notifications_enabled": false
+                                },
+                                "pinned_items": {},
+                                "possibly_sensitive": false,
+                                "privacy": {
+                                  "protected": false
+                                },
+                                "profile_bio": {
+                                  "description": "Organizing every day to mobilize the power of feminists. Courage is contagious. Refusal is powerful. Take the Brave Women Pledge \u2b07\ufe0f",
+                                  "entities": {
+                                    "description": {},
+                                    "url": {
+                                      "urls": [
+                                        {
+                                          "display_url": "linktr.ee/womensmarch",
+                                          "expanded_url": "http://linktr.ee/womensmarch",
+                                          "indices": [
+                                            0,
+                                            23
+                                          ],
+                                          "url": "https://t.co/P7sjoB7CCv"
+                                        }
+                                      ]
+                                    }
+                                  }
+                                },
+                                "profile_description_language": "en",
+                                "profile_image_shape": "Circle",
+                                "profile_metadata": {
+                                  "profile_interstitial_type": ""
+                                },
+                                "profile_translation": {
+                                  "translator_type": "none"
+                                },
+                                "relationship_counts": {
+                                  "followers": 483454,
+                                  "following": 4942
+                                },
+                                "relationship_perspectives": {
+                                  "blocked_by": false,
+                                  "blocking": false,
+                                  "followed_by": false,
+                                  "following": false,
+                                  "live_following": false,
+                                  "muting": false
+                                },
+                                "rest_id": "800942537083068416",
+                                "super_follow_eligible": false,
+                                "super_followed_by": false,
+                                "super_following": false,
+                                "tipjar_settings": {},
+                                "tweet_counts": {
+                                  "media_tweets": 6325,
+                                  "tweets": 34789
+                                },
+                                "verification": {
+                                  "verified": false
+                                },
+                                "website": {
+                                  "url": "https://t.co/P7sjoB7CCv"
+                                }
+                              }
+                            }
+                          ]
+                        },
+                        "rest_id": "https://t.co/wTGDifEhye"
+                      },
+                      "core": {
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "action_counts": {
+                              "favorites_count": 18050
+                            },
+                            "affiliates_highlighted_label": {},
+                            "avatar": {
+                              "image_url": "https://pbs.twimg.com/profile_images/1686488665936289792/1i_Bk-bC_normal.jpg"
+                            },
+                            "banner": {
+                              "image_url": "https://pbs.twimg.com/profile_banners/800942537083068416/1690924179"
+                            },
+                            "core": {
+                              "created_at": "Tue Nov 22 06:02:36 +0000 2016",
+                              "name": "Women's March",
+                              "screen_name": "womensmarch"
+                            },
+                            "dm_permissions": {
+                              "can_dm": true
+                            },
+                            "follow_request_sent": false,
+                            "has_graduated_access": true,
+                            "id": "VXNlcjo4MDA5NDI1MzcwODMwNjg0MTY=",
+                            "is_blue_verified": true,
+                            "location": {
+                              "location": "Washington, D.C."
+                            },
+                            "media_permissions": {
+                              "can_media_tag": false
+                            },
+                            "notifications_settings": {
+                              "notifications_enabled": false
+                            },
+                            "pinned_items": {},
+                            "possibly_sensitive": false,
+                            "privacy": {
+                              "protected": false
+                            },
+                            "profile_bio": {
+                              "description": "Organizing every day to mobilize the power of feminists. Courage is contagious. Refusal is powerful. Take the Brave Women Pledge \u2b07\ufe0f",
+                              "entities": {
+                                "description": {},
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "linktr.ee/womensmarch",
+                                      "expanded_url": "http://linktr.ee/womensmarch",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ],
+                                      "url": "https://t.co/P7sjoB7CCv"
+                                    }
+                                  ]
+                                }
+                              }
+                            },
+                            "profile_description_language": "en",
+                            "profile_image_shape": "Circle",
+                            "profile_metadata": {
+                              "profile_interstitial_type": ""
+                            },
+                            "profile_translation": {
+                              "translator_type": "none"
+                            },
+                            "relationship_counts": {
+                              "followers": 483454,
+                              "following": 4942
+                            },
+                            "relationship_perspectives": {
+                              "blocked_by": false,
+                              "blocking": false,
+                              "followed_by": false,
+                              "following": false,
+                              "live_following": false,
+                              "muting": false
+                            },
+                            "rest_id": "800942537083068416",
+                            "super_follow_eligible": false,
+                            "super_followed_by": false,
+                            "super_following": false,
+                            "tipjar_settings": {},
+                            "tweet_counts": {
+                              "media_tweets": 6325,
+                              "tweets": 34789
+                            },
+                            "verification": {
+                              "verified": false
+                            },
+                            "website": {
+                              "url": "https://t.co/P7sjoB7CCv"
+                            }
+                          }
+                        }
+                      },
+                      "edit_control": {
+                        "edit_tweet_ids": [
+                          "822817044450013184"
+                        ],
+                        "editable_until_msecs": "1485011645255",
+                        "edits_remaining": "5",
+                        "is_edit_eligible": true
+                      },
+                      "grok_translated_post_with_availability": {
+                        "is_available": false
+                      },
+                      "has_birdwatch_notes": false,
+                      "is_translatable": false,
+                      "legacy": {
+                        "bookmark_count": 0,
+                        "bookmarked": false,
+                        "conversation_id_str": "822817044450013184",
+                        "created_at": "Sat Jan 21 14:44:05 +0000 2017",
+                        "display_text_range": [
+                          0,
+                          23
+                        ],
+                        "entities": {
+                          "urls": [
+                            {
+                              "display_url": "pscp.tv/w/a1IZtTF4bmpy\u2026",
+                              "expanded_url": "https://www.pscp.tv/w/a1IZtTF4bmpyWGRna1hXUVl8MU95S0FBZURienpLYk02k1IBxDHp3qKj_24WLTf7IW8x-9UIafSgOsoDhvBM",
+                              "indices": [
+                                0,
+                                23
+                              ],
+                              "url": "https://t.co/wTGDifEhye"
+                            }
+                          ]
+                        },
+                        "favorite_count": 20115,
+                        "favorited": false,
+                        "full_text": "https://t.co/wTGDifEhye",
+                        "id_str": "822817044450013184",
+                        "is_quote_status": false,
+                        "lang": "zxx",
+                        "possibly_sensitive": false,
+                        "possibly_sensitive_editable": true,
+                        "quote_count": 956,
+                        "reply_count": 1139,
+                        "retweet_count": 15468,
+                        "retweeted": false,
+                        "user_id_str": "800942537083068416"
+                      },
+                      "quick_promote_eligibility": {
+                        "eligibility": "IneligibleNotVerified"
+                      },
+                      "rest_id": "822817044450013184",
+                      "source": "<a href=\"http://erased8036141_052BSwz4Zo.com\" rel=\"nofollow\">erased8036141_052BSwz4Zo</a>",
+                      "unmention_data": {},
+                      "views": {
+                        "state": "Enabled"
+                      }
+                    }
+                  }
+                }
+              },
+              "entryId": "tweet-822817044450013184",
+              "sortIndex": "2093449169908793344"
+            }
+          ],
+          "type": "TimelineAddEntries"
+        },
+        {
+          "direction": "Top",
+          "type": "TimelineTerminateTimeline"
+        }
+      ],
+      "metadata": {
+        "scribeConfig": {
+          "page": "ranked_replies"
+        }
+      }
+    }
+  }
+}
