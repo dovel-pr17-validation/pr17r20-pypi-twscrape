@@ -27,11 +27,11 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-curl = ["curl-cffi>=0.7.0"]
+curl = ["curl-cffi>=0.16.3"]
 
 [dependency-groups]
 dev = [
-  "curl-cffi>=0.7.0",
+  "curl-cffi>=0.16.3",
   "pytest-asyncio>=0.23.3",
   "pytest-cov>=4.1.0",
   "pytest-httpx>=0.28.0",
